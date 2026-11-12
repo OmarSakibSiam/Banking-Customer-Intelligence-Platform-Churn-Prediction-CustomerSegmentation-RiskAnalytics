@@ -237,7 +237,7 @@ The application does **not** retrain the models when a user submits a customer. 
 
 The repository contains the Streamlit source code and model artifact. A public Streamlit deployment URL was not present in the repository files inspected for this README. If the app is deployed on Streamlit Community Cloud, add its public URL here:
 
-**Live App:** `[Add your Streamlit Community Cloud URL]`
+**Live App:** https://bankingintelligence.streamlit.app/
 
 ## 8. Technology Stack
 
